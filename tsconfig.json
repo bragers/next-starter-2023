@@ -3,6 +3,7 @@
   "display": "Next.js",
   "extends": "./base.json",
   "compilerOptions": {
+    "types": ["node"],
     "target": "es5",
     "lib": [
       "DOM",

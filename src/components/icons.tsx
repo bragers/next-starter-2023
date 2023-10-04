@@ -1,4 +1,4 @@
-import type { Icon as LucideIcon, LucideProps } from "lucide-react"
+import type { icons as LucideIcon, LucideProps } from "lucide-react"
 import {
   Activity,
   AlertCircle,
@@ -50,7 +50,6 @@ import {
   X,
 } from "lucide-react"
 
-export type Icon = LucideIcon
 
 export const Icons = {
   logo: (props: LucideProps) => (
