@@ -97,3 +97,29 @@
     margin: 0;
   }
 }
+
+html {
+  font-size: 200%;
+}
+
+.navigation {
+  background-color: #f9f9f9;
+  margin-bottom: 1rem;
+
+  ul {
+    margin: 0;
+    padding: 0.5rem;
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+  }
+
+  .first {
+    color: red;
+  }
+}.layout {
+  max-width: 768px;
+  margin: 0 auto;
+  border: 1px solid #f9f9f9;
+  padding: 0 0.5rem;
+}

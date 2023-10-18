@@ -15,3 +15,4 @@ export const env = createEnv({
   // you only need to destructure client variables:
   experimental__runtimeEnv: {},
 })
+DATA_API_KEY=TestingApiKey
